@@ -1,0 +1,309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The honest tradesmans honour vindicated. Or, The bragadocia quel'd, as in this ditty out is held, or, A merry dialogue between a swash blade and an artist of London to vindicate trade: with merry jibes, jears and frumps, to drive melancholly men out of their dumps, pend to make them merry when melancholly doth possess the brain. The tune is, General Monk was a noble man, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670-1677?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03677</idno>
+            <idno type="STC">Wing H2590</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[216]</idno>
+            <idno type="EEBO-CITATION">99887718</idno>
+            <idno type="PROQUEST">ocm99887718</idno>
+            <idno type="VID">183376</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183376)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[167])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The honest tradesmans honour vindicated. Or, The bragadocia quel'd, as in this ditty out is held, or, A merry dialogue between a swash blade and an artist of London to vindicate trade: with merry jibes, jears and frumps, to drive melancholly men out of their dumps, pend to make them merry when melancholly doth possess the brain. The tune is, General Monk was a noble man, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for  VV. Thackeray, T. Passenger, and VV. Whitwood,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1670-1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse: "I am a gallant blade indeed ..."</note>
+                  <note>Imperfect: trimmed, affecting imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="216" facs="tcp:183376:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <head>The honeſt <hi>Tradeſmans</hi> Honour Vindicated.</head>
+            <head type="sub">OR, 
+<l>The Bragadocia quel'd,</l>
+               <l>As in this Ditty out is held,</l>
+            </head>
+            <head type="sub">OR,
+<l>A merry Dialogue between a Swaſh Blade</l>
+               <l>And an Artiſt of <hi>London</hi> to vindicate trade:</l>
+            </head>
+            <argument>
+               <l>With merry jibes, jears and frumps,</l>
+               <l>To drive melancholly men out of their dumps,</l>
+               <l>Pend to make them merry when</l>
+               <l>Melancholly doth poſſeſs the brain.</l>
+            </argument>
+            <opener>The tune is, <hi>General Monk was a Noble man, &amp;c.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <sp>
+                  <speaker>Gentleman.</speaker>
+                  <l>
+                     <hi>I</hi> Am a gallant Blade indeed,</l>
+                  <l>and gay Apparel wear,</l>
+                  <l>A fig for Trade and a crown for a Maid,</l>
+                  <l>and a fart for ſorrow and care:</l>
+                  <l>I am a Iovial Gentleman</l>
+                  <l>I love Sport and Recreation,</l>
+                  <l>Though I have neither Houſe nor Land,</l>
+                  <l>I keep my ſelf in good faſhion,</l>
+               </sp>
+               <sp>
+                  <speaker>Tradeſman.</speaker>
+                  <l>Some Gentlemens care is a Laſs in his lap</l>
+                  <l>whil'ſt he at a Tradeſman is flowting,</l>
+                  <l>
+                     <hi>Dol</hi> with a diſhclout hath painted her face,</l>
+                  <l>and ſcorns with her hands to be working:</l>
+                  <l>She thought to be call'd high in name,</l>
+                  <l>no leſs than a Lady I wiſh.</l>
+                  <l>She decked her ſelf in ſilk and in ſatten,</l>
+                  <l>yet ſhe's but an ugly Puſs.</l>
+               </sp>
+               <sp>
+                  <speaker>Gentleman.</speaker>
+                  <l>Alaſs good Sir when did you come</l>
+                  <l>from the Cities labouring trade,</l>
+                  <l>Look back again now towards home,</l>
+                  <l>and ſee what for you is made,</l>
+                  <l>Your wife for you has made a Crown,</l>
+                  <l>a gallant fair pair of Horns,</l>
+                  <l>Whilſt you are here in our Country</l>
+                  <l>with one that your Calling ſcorns.</l>
+               </sp>
+               <sp>
+                  <speaker>Tradeſman.</speaker>
+                  <l>It comes into my memory</l>
+                  <l>ſir now you talk of ſcorning,</l>
+                  <l>Do you remember the Oyſter Wench</l>
+                  <l>you met with one Munday morning,</l>
+                  <l>When ſhe was in her ſilver lace'd Gown</l>
+                  <l>oh then you began to woe her,</l>
+                  <l>But when ſhe cry'd Oyſters in the town</l>
+                  <l>you ſcorn'd as much to know her.</l>
+               </sp>
+               <sp>
+                  <speaker>Gentleman.</speaker>
+                  <l>We Gentlemen live merry lives,</l>
+                  <l>you but Mecannicks are ſir,</l>
+                  <l>Therefore to us you muſt make known</l>
+                  <l>when ever we do come ſir;</l>
+                  <l>You Tradeſmen unto it are tyde,</l>
+                  <l>you muſt work hard for mony,</l>
+                  <l>Whilſt merrily abroad we ride,</l>
+                  <l>to hunt the Fox and Coney.</l>
+               </sp>
+               <sp>
+                  <speaker>Tradeſman.</speaker>
+                  <l>Now that you talk of hunting ſir,</l>
+                  <l>one thing comes in my mind,</l>
+                  <l>You nothing have to doe but hunt</l>
+                  <l>therefore it comes by kind,</l>
+                  <l>A hind I do remember well</l>
+                  <l>you lately had in chaſe,</l>
+                  <l>Her belly high begins to ſwell,</l>
+                  <l>and you abſent the place.</l>
+               </sp>
+            </div>
+            <div n="2" type="part">
+               <pb n="217" facs="tcp:183376:1"/>
+               <!-- PDF PAGE 32 -->
+               <head>The ſecond Part,</head>
+               <opener>to the ſame Tune.</opener>
+               <sp>
+                  <speaker>Gentleman.</speaker>
+                  <l>YOu Tradeſman at your work do moyl,</l>
+                  <l>whilſt we to mirth incline ſir:</l>
+                  <l>But we do ſcorn ſo much to toyle,</l>
+                  <l>except it be at the wine Sir:</l>
+                  <l>
+                     <hi>You</hi> tradeſmen have great rents to pay</l>
+                  <l>for that we take no care,</l>
+                  <l>We rant and rore it night and day</l>
+                  <l>we ſpend and never ſpare.</l>
+               </sp>
+               <sp>
+                  <speaker>Tradeſman.</speaker>
+                  <l>Now that you talk of Rents good ſir.</l>
+                  <l>of Muſick and of wine.</l>
+                  <l>To pay your debts do not defer,</l>
+                  <l>to your Landlady ſo fine,</l>
+                  <l>Her Daughter <hi>Dol</hi> is in great fear,</l>
+                  <l>ſhe ſhall not ſee your face,</l>
+                  <l>You have left her to ſhed many a Tear</l>
+                  <l>and reap your ſown diſgrace.</l>
+               </sp>
+               <sp>
+                  <speaker>Gentleman.</speaker>
+                  <l>If into the Country we but ride,</l>
+                  <l>out ten miles from the City,</l>
+                  <l>No ſooner have they our face ſpy'd,</l>
+                  <l>but this will be their Ditty,</l>
+                  <l>Your worſhips welcome to the town,</l>
+                  <l>pray ſir what will you have?</l>
+                  <l>Thus are we known of every Clown,</l>
+                  <l>and of each Fool and Knave</l>
+               </sp>
+               <sp>
+                  <speaker>Tradeſman</speaker>
+                  <l>Sir now you talk of Fools and Knaves,</l>
+                  <l>of Country men and Clowns,</l>
+                  <l>And of true dealing honeſt men,</l>
+                  <l>that dwell in country Towns,</l>
+                  <l>Were't not for them full well <hi>I</hi> know,</l>
+                  <l>long we could not live hear,</l>
+                  <l>They toyl to Plow, to Reap and Sow,</l>
+                  <l>to feed's with Bread, Béef, and Beer.</l>
+               </sp>
+               <sp>
+                  <speaker>Gentleman.</speaker>
+                  <l>Sir this <hi>I</hi> grant for to be true,</l>
+                  <l>that we by them are fed;</l>
+                  <l>No company <hi>I</hi>'le keep with you</l>
+                  <l>for <hi>I</hi> am better bread:</l>
+                  <l>Seeſt thou my Rapier by my ſide,</l>
+                  <l>A broad <hi>Hat</hi> and long curl'd <hi>Hair,</hi>
+                  </l>
+                  <l>My Breeches at the knees ſo wide</l>
+                  <l>that they would make four pair.</l>
+               </sp>
+               <sp>
+                  <speaker>Tradeſman.</speaker>
+                  <l>Sir, if for your Rapier you had paid,</l>
+                  <l>your Cutler would not frown,</l>
+                  <l>Nor your Bever-maker have been afraid</l>
+                  <l>of your riding out of Town.</l>
+                  <l>
+                     <hi>Your</hi> Taylor he lamenteth ſtill.</l>
+                  <l>for a truth <hi>I</hi> heard it ſaid</l>
+                  <l>Oft viewing of his long Bill,</l>
+                  <l>which you have left unpaid.</l>
+               </sp>
+               <sp>
+                  <speaker>Gentleman.</speaker>
+                  <l>Sir, for this preſent <hi>I</hi> will reſt.</l>
+                  <l>and will no more contend,</l>
+                  <l>I do proteſt that man is bleſt</l>
+                  <l>that is the Tradeſmans friend,</l>
+                  <l>
+                     <hi>You</hi> work and ſing all care away,</l>
+                  <l>and drink <hi>Ale,</hi> Beer, and Wine,</l>
+                  <l>Whil'ſt Getlemen do now and then</l>
+                  <l>with great Duke <hi>Hmmphrey</hi> Dine.</l>
+               </sp>
+               <sp>
+                  <speaker>Tradeſman.</speaker>
+                  <l>Good God preſerve our Royal King</l>
+                  <l>the Yrogeny defend,</l>
+                  <l>With the reſt of the Royal Off-ſpring</l>
+                  <l>from thoſe that would contend:</l>
+                  <l>And God ſo bleſs the Parliament</l>
+                  <l>that they good Laws may make,</l>
+                  <l>Our future dangers to prevent,</l>
+                  <l>and thus my leave I take.</l>
+               </sp>
+            </div>
+            <trailer>Finis,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
